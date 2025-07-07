@@ -1,3 +1,8 @@
+# Custom
+*.cfg
+Notes.txt
+pimicon.PNG
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
