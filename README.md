@@ -4,7 +4,7 @@
 
 Used for testing, opens console
 pyinstaller --console --icon=64x64-Emoji-Finished.ico -F --add-data="Sources/*.py;." .\main.py
-
+pyinstaller --console --icon=PIMManagement.ico -F --add-data="Sources/*.py;." .\main.py
 
 Main command to package app
 pyinstaller --noconsole --icon=64x64-Emoji-Finished.ico -F --add-data="Sources/*.py;." .\main.py --windowed
